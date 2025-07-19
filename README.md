@@ -1,4 +1,4 @@
-# Asefeh Asemi Academic Portfolio
+# Asemi Academic Portfolio
 
 Welcome to the academic and research portfolio of **Dr. Asefeh Asemi**. This repository highlights selected works, peer-reviewed publications, supervised theses, funded research projects, and technical contributions in the fields of **Business Informatics**, **Artificial Intelligence**, **Information Systems**, **Information Science**, and **Library and Knowledge Management Systems**.
 
@@ -15,8 +15,8 @@ Welcome to the academic and research portfolio of **Dr. Asefeh Asemi**. This rep
 ```bash
 Asemi_Academic_Portfolio/
 ├── CVs/
-│   ├── Resume_2025.md
-│   └── Resume_Librarian.md
+│   ├── Resume_2025.md           # Latest full academic & research CV
+│   └── Resume_Librarian.md      # Specialized version for Library/InfoScience positions
 ├── Supervisions/
 │   ├── MSc_Theses.md
 │   └── PhD_Dissertations.md
