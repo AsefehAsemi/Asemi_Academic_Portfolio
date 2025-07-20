@@ -34,8 +34,11 @@ Asemi, A., Ko, A., & Asemi, A. (2023). Systematic Review and Propose an ANFIS-Ba
 Fatahi Nafchi, N., Asemi, A., & Asemi, A. (2023). A Fuzzy Delphi-based Inference System for Detecting and Controlling Rice Weeds. 7th International Congress of Electrical, Computer and Mechanical Engineering. 23 Sep. 2022, Iran, Tehran.
 
 Asemi, A., Ko, A., & Asemi, A. (2022). Investment recommender system based on ANFIS according to the key decision factors of potential investors. “1st International Conference of Business Development and Digital Transformation”, 9-10 November. https://icbdconference.net/
+
 Asemi, A., Ko, A., & Asemi, A. (2022). Analytical hierarchy process decision support system for selecting information resources. 2nd International Conference on Computer Engineering and Science (CCES2022). Faculty of Computer Engineering, Najafabad Branch, Islamic Azad University, Najafabad, Iran. 15-17 Nov. https://cces2022.ir/
+
 Asemi, A. & Rasti, P. (2022). A comparison study on the readership in Mendeley and citation in Scopus: A scientometrics study in nursing. The 26th International Conference on Science, Technology and Innovation Indicators, The 26th International Conference on Science, Technology and Innovation Indicators STI 2022, September 7-9. 
+
 Asemi, A., Ko, A., & Asemi, A. (2022). The AHP-TOPSIS based DSS for selecting suppliers of information resources. 2022 Second International Conference on Distributed Computing and High-Performance Computing (DCHPC). IEEE proceeding. 2nd-3rd March 2022, Qom, Iran. pp. 104-116, DOI: 10.1109/DCHPC55044.2022.9732125. Best Paper Award. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732125   
 
 Asemi, A., Akbari, A., & Asemi, A. (2022). Comparative survey on the ways of access to managerial information. 2022 Second International Conference on Distributed Computing and High-Performance Computing (DCHPC). IEEE proceeding. 2nd-3rd March 2022, Qom, Iran. pp. 31-39, DOI: 10.1109/DCHPC55044.2022.9731842. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731842
