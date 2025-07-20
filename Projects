@@ -11,12 +11,58 @@ This directory contains selected research and development projects led or co-led
 **Summary:** Development of a hybrid recommender system using ANFIS and fuzzy logic to suggest investment types based on behavioral and demographic features.  
 **Status:** PhD-level project | Published in *Big Data (2023)*
 
+# AI-Financial-Recommender
+
+This project focuses on developing a hybrid AI-based recommender system for financial decision-making, utilizing ANFIS, MNN, and fuzzy inference models. It was designed as part of doctoral-level research and is applicable to smart investment systems.
+
+## Key Features
+- Adaptive Neuro-Fuzzy Inference System (ANFIS)
+- Multi-layer Neural Networks (MNN)
+- Investment Type Recommender System
+- Financial Behavior Profiling
+- Decision Support for Potential Investors
+
+## Methods
+- Supervised learning with investor and expert data
+- Use of Python, MATLAB, and Scikit-Fuzzy
+- Evaluation metrics: RMSE, R², and user satisfaction
+
+## Publication(s)
+- Asemi, A., Asemi, A. & Ko, A. (2023). A model for the investment recommender system using ANFIS based on the Potential Investors’ Decision Key Factors (PIDKFs). *Big Data*. [DOI link](https://doi.org/10.1089/big.2022.0302)
+
+## Status
+🎓 PhD Research  
+🧪 Model developed and validated  
+📦 Ready for industrial or academic adaptation
+
 ---
 
 ### 2. [Digital-Library-MUI](./Digital-Library-MUI)
 **Theme:** Evaluation and enhancement of digital library services  
 **Summary:** Strategic project conducted in collaboration with Isfahan University of Medical Sciences for evaluating journal indexing, service quality, and user satisfaction.  
 **Status:** MSc-level collaboration | 10+ theses supervised | Multiple institutional reports
+
+# Digital-Library-MUI
+
+A strategic project aimed at enhancing the digital library infrastructure of the Isfahan University of Medical Sciences (MUI), aligning library services with international digital access standards and evaluation models.
+
+## Objectives
+- Evaluation of journal indexing in Scopus
+- Implementation of LibQUAL+ for service quality assessment
+- Integration of RFID and Web 2.0 technologies in academic libraries
+
+## Contributions
+- Designed data collection tools and evaluation frameworks
+- Supervised multiple MSc theses linked to this project
+- Collaborated with librarians and information system developers
+
+## Sample Thesis
+- Zarei, F. (2017). Evaluation of Persian Health Ministry Journals Based on Scopus Criteria. *MSc in Knowledge and Information Science*.
+
+## Status
+🏛 Institutional Research Collaboration  
+📚 Impacted >10 graduate research theses  
+🗂 Legacy data archived at MUI repository
 
 ---
 
