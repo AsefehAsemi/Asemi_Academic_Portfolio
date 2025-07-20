@@ -1,0 +1,35 @@
+# 📁 Research Projects
+
+This directory contains selected research and development projects led or co-led by **Dr. Asefeh Asemi** across the domains of Artificial Intelligence, Information Systems, Digital Libraries, and Smart Services. Each subfolder includes documentation, related publications, and research outputs.
+
+---
+
+## 🔍 Project List
+
+### 1. [AI-Financial-Recommender](./AI-Financial-Recommender)
+**Theme:** AI-powered investment decision-making  
+**Summary:** Development of a hybrid recommender system using ANFIS and fuzzy logic to suggest investment types based on behavioral and demographic features.  
+**Status:** PhD-level project | Published in *Big Data (2023)*
+
+---
+
+### 2. [Digital-Library-MUI](./Digital-Library-MUI)
+**Theme:** Evaluation and enhancement of digital library services  
+**Summary:** Strategic project conducted in collaboration with Isfahan University of Medical Sciences for evaluating journal indexing, service quality, and user satisfaction.  
+**Status:** MSc-level collaboration | 10+ theses supervised | Multiple institutional reports
+
+---
+
+## 📌 How to Navigate
+
+Each folder includes:
+- `README.md` with project overview
+- Related theses (if applicable)
+- Published articles or DOI links
+- Tools, frameworks, or code used (if public)
+
+---
+
+## 📎 Note
+
+If you are a student or collaborator seeking access to closed project resources, please contact **Dr. Asefeh Asemi** directly.
